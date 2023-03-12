@@ -1,10 +1,4 @@
-# Operationalize-a-Machine-Learning-Microservice-API [![michaelagbiaowei](https://circleci.com/gh/michaelagbiaowei/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](https://app.circleci.com/pipelines/github/michaelagbiaowei/Operationalize-a-Machine-Learning-Microservice-API/4/workflows/f95f59aa-a426-49aa-a696-684528811966)
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+# Operationalize-a-Machine-Learning-Microservice-API [![volder](https://circleci.com/gh/https://github.com/Voldarco/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](https://app.circleci.com/pipelines/github/Voldarco/Operationalize-a-Machine-Learning-Microservice-API/1/workflows/0c253864-58dc-484f-bc67-8624baea5513)
 
 ## Project Overview
 
